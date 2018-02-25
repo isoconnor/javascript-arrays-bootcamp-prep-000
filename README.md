@@ -1,4 +1,4 @@
-
+slice
 ## Objectives
 
 - Explain what an array is and why we use it
